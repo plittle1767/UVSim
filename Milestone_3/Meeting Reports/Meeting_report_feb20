@@ -1,0 +1,34 @@
+Meeting Report
+Meeting Details
+- Meeting Title: Tuesday Meeting
+- Date: February 20th, 2024
+- Time: 5:00pm -5:45pm
+- Location: Google Meet
+- Attendees: Tyler, Taj, Oliver, Preston
+
+Agenda
+1. Discuss GUI design doc and any changes that need to be made.
+2. Review SRS and merge into one final document.
+3. Plan for code and remaining tasks
+
+Minutes of the Meeting
+Discuss GUI Design Doc
+•	Discussion: We decided to adjust the GUI design doc since we found some features would have been a bit harder to add than originally anticipated. We simplified the features to just focus on meeting the requirements and then adjusted the layout a bit.
+•	Action Items: Review and adjust again as code changes.
+Review SRS and Merge
+•	Discussion: We went over the previously merged documents together and then decided on which ones were combinable and focused on finding the best wording for each one. Finished adding all of the requirements to the document.
+•	Action Items: N/A
+Plan Code and Docs
+•	Discussion: We briefly reviewed which tasks were assigned to whom and how far progress was coming, what else was needed etc. Then we discussed how we wanted to create the GUI. Decided to try a few different things and evaluate along the way.
+•	Action Items: Tyler will email professor about approved coding languages. Oliver will continue to try using Flet, the rest of the team will try using HTML combined with Python and progress will be compared Thursday. *Note: After receiving an email response we decided to scratch the HTML and keep everything in Python.*
+
+
+
+Next Meeting
+Date: Friday
+Time: 6:30
+Location: Google Meet
+Agenda: Discuss progress and remaining tasks.
+
+## Additional Notes
+N/A

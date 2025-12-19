@@ -1,0 +1,3 @@
+class OperationsError(Exception):
+    pass
+
